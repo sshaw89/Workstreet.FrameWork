@@ -1,0 +1,99 @@
+2019-02-25 19:51:49,777  INFO [main] BaseClass:26 - opening chrome browser
+2019-02-25 19:52:38,620  INFO [main] BaseClass:40 - entered the url
+2019-02-25 19:52:38,632  INFO [main] LoginTest:18 - logging in to the application
+2019-02-25 19:52:38,821  INFO [main] LoginTest:22 - entering username and password
+2019-02-25 19:52:51,225  INFO [main] LoginTest:24 - username and password entered
+2019-02-25 19:52:51,225  INFO [main] LoginTest:25 - get the title of homepage
+2019-02-25 19:52:51,283  INFO [main] LoginTest:27 - verifying with assert
+2019-02-25 19:52:51,287  INFO [main] LoginTest:29 - verified successfully
+2019-02-25 19:52:51,294  INFO [main] BaseClass:44 - closed the browser
+2019-02-25 20:59:34,228  INFO [main] BaseClass:26 - opening chrome browser
+2019-02-25 21:00:53,627  INFO [main] BaseClass:42 - entered the url
+2019-02-25 21:00:53,642  INFO [main] LoginTest:19 - logging in to the application
+2019-02-25 21:00:53,781  INFO [main] LoginTest:23 - entering username and password
+2019-02-25 21:01:36,682  INFO [main] LoginTest:25 - username and password entered
+2019-02-25 21:01:36,683  INFO [main] LoginTest:26 - get the title of homepage
+2019-02-25 21:01:36,700  INFO [main] LoginTest:28 - verifying with assert
+2019-02-25 21:01:36,755  INFO [main] LoginTest:30 - verified successfully
+2019-02-25 21:01:36,762  INFO [main] BaseClass:46 - closed the browser
+2019-02-28 09:20:16,325  INFO [main] BaseClass:26 - opening chrome browser
+2019-02-28 09:21:32,694  INFO [main] BaseClass:42 - entered the url
+2019-02-28 09:21:32,816  INFO [main] LoginTest:19 - logging in to the application
+2019-02-28 09:21:33,993  INFO [main] LoginTest:23 - entering username and password
+2019-02-28 09:21:58,879  INFO [main] LoginTest:25 - username and password entered
+2019-02-28 09:21:58,879  INFO [main] LoginTest:26 - get the title of homepage
+2019-02-28 09:21:58,898  INFO [main] LoginTest:28 - verifying with assert
+2019-02-28 09:21:58,929  INFO [main] LoginTest:30 - verified successfully
+2019-02-28 09:21:58,936  INFO [main] BaseClass:46 - closed the browser
+2019-02-28 09:49:23,425  INFO [main] BaseClass:26 - opening chrome browser
+2019-02-28 09:50:22,812  INFO [main] BaseClass:42 - entered the url
+2019-02-28 09:50:22,830  INFO [main] LoginTest:19 - logging in to the application
+2019-02-28 09:50:23,005  INFO [main] LoginTest:23 - entering username and password
+2019-02-28 09:50:39,600  INFO [main] LoginTest:25 - username and password entered
+2019-02-28 09:50:39,601  INFO [main] LoginTest:26 - get the title of homepage
+2019-02-28 09:50:39,623  INFO [main] LoginTest:28 - verifying with assert
+2019-02-28 09:50:39,645  INFO [main] LoginTest:30 - verified successfully
+2019-02-28 09:50:39,651  INFO [main] BaseClass:46 - closed the browser
+2019-02-28 09:50:39,980  INFO [main] BaseClass:26 - opening chrome browser
+2019-02-28 09:50:56,901  INFO [main] BaseClass:42 - entered the url
+2019-02-28 09:50:56,906  INFO [main] InvalidUserLogin:23 - Trying to login with invalid username
+2019-02-28 09:50:59,872  INFO [main] BaseClass:46 - closed the browser
+2019-02-28 09:52:29,258  INFO [main] BaseClass:26 - opening chrome browser
+2019-02-28 09:52:48,822  INFO [main] BaseClass:42 - entered the url
+2019-02-28 09:52:48,838  INFO [main] LoginTest:19 - logging in to the application
+2019-02-28 09:52:48,954  INFO [main] LoginTest:23 - entering username and password
+2019-02-28 09:52:59,161  INFO [main] LoginTest:25 - username and password entered
+2019-02-28 09:52:59,162  INFO [main] LoginTest:26 - get the title of homepage
+2019-02-28 09:52:59,175  INFO [main] LoginTest:28 - verifying with assert
+2019-02-28 09:52:59,180  INFO [main] LoginTest:30 - verified successfully
+2019-02-28 09:52:59,187  INFO [main] BaseClass:46 - closed the browser
+2019-02-28 09:52:59,862  INFO [main] BaseClass:26 - opening chrome browser
+2019-02-28 09:53:21,066  INFO [main] BaseClass:42 - entered the url
+2019-02-28 09:53:21,079  INFO [main] InvalidUserLogin:23 - Trying to login with invalid username
+2019-02-28 09:53:26,059  INFO [main] InvalidUserLogin:25 - switching to alert popup window
+2019-02-28 09:53:26,084  INFO [main] InvalidUserLogin:27 - getting the text of popup window
+2019-02-28 09:53:26,134  INFO [main] InvalidUserLogin:30 - verifying the expected text with actual test using assert
+2019-02-28 09:53:26,145  INFO [main] BaseClass:46 - closed the browser
+2019-02-28 09:59:22,766  INFO [main] BaseClass:26 - opening chrome browser
+2019-02-28 09:59:46,158  INFO [main] BaseClass:42 - entered the url
+2019-02-28 09:59:46,176  INFO [main] LoginTest:19 - logging in to the application
+2019-02-28 09:59:46,313  INFO [main] LoginTest:23 - entering username and password
+2019-02-28 09:59:56,824  INFO [main] LoginTest:25 - username and password entered
+2019-02-28 09:59:56,825  INFO [main] LoginTest:26 - get the title of homepage
+2019-02-28 09:59:56,918  INFO [main] LoginTest:28 - verifying with assert
+2019-02-28 09:59:56,925  INFO [main] LoginTest:30 - verified successfully
+2019-02-28 09:59:56,932  INFO [main] BaseClass:46 - closed the browser
+2019-02-28 09:59:58,383  INFO [main] BaseClass:26 - opening chrome browser
+2019-02-28 10:00:24,198  INFO [main] BaseClass:42 - entered the url
+2019-02-28 10:00:24,204  INFO [main] InvalidUserLogin:23 - Trying to login with invalid username
+2019-02-28 10:00:28,128  INFO [main] InvalidUserLogin:25 - switching to alert popup window
+2019-02-28 10:00:28,142  INFO [main] InvalidUserLogin:27 - getting the text of popup window
+2019-02-28 10:00:28,172  INFO [main] InvalidUserLogin:30 - verifying the expected text with actual test using assert
+2019-02-28 10:00:28,173  INFO [main] InvalidUserLogin:32 - alert text is verified
+2019-02-28 10:00:30,670  INFO [main] BaseClass:46 - closed the browser
+2019-02-28 10:14:27,610  INFO [main] BaseClass:26 - opening chrome browser
+2019-02-28 10:14:58,974  INFO [main] BaseClass:42 - entered the url
+2019-02-28 10:14:58,990  INFO [main] LoginTest:19 - logging in to the application
+2019-02-28 10:14:59,145  INFO [main] LoginTest:23 - entering username and password
+2019-02-28 10:15:09,773  INFO [main] LoginTest:25 - username and password entered
+2019-02-28 10:15:09,774  INFO [main] LoginTest:26 - get the title of homepage
+2019-02-28 10:15:09,812  INFO [main] LoginTest:28 - verifying with assert
+2019-02-28 10:15:09,819  INFO [main] LoginTest:30 - verified successfully
+2019-02-28 10:15:09,827  INFO [main] BaseClass:46 - closed the browser
+2019-02-28 10:15:11,491  INFO [main] BaseClass:26 - opening chrome browser
+2019-02-28 10:15:29,858  INFO [main] BaseClass:42 - entered the url
+2019-02-28 10:15:29,863  INFO [main] LoginTestWithValiduserInvalidPassword:23 - Trying to login with invalid username
+2019-02-28 10:15:35,983  INFO [main] LoginTestWithValiduserInvalidPassword:25 - switching to alert popup window
+2019-02-28 10:15:36,062  INFO [main] LoginTestWithValiduserInvalidPassword:27 - getting the text of popup window
+2019-02-28 10:15:36,085  INFO [main] LoginTestWithValiduserInvalidPassword:30 - verifying the expected text with actual test using assert
+2019-02-28 10:15:36,086  INFO [main] LoginTestWithValiduserInvalidPassword:32 - alert text is verified
+2019-02-28 10:15:39,090  INFO [main] BaseClass:46 - closed the browser
+2019-02-28 10:19:32,323  INFO [main] BaseClass:26 - opening chrome browser
+2019-02-28 10:19:59,069  INFO [main] BaseClass:42 - entered the url
+2019-02-28 10:19:59,178  INFO [main] LoginTestWithValiduserInvalidPassword:23 - Trying to login with invalid username
+2019-02-28 10:20:04,198  INFO [main] LoginTestWithValiduserInvalidPassword:25 - switching to alert popup window
+2019-02-28 10:20:04,220  INFO [main] LoginTestWithValiduserInvalidPassword:27 - getting the text of popup window
+2019-02-28 10:20:04,237  INFO [main] LoginTestWithValiduserInvalidPassword:30 - verifying the expected text with actual test using assert
+2019-02-28 10:20:04,242  INFO [main] LoginTestWithValiduserInvalidPassword:32 - alert text is verified
+2019-02-28 10:20:06,358  INFO [main] BaseClass:46 - closed the browser
+2019-03-06 13:52:06,545  INFO [main] BaseClass:27 - opening chrome browser

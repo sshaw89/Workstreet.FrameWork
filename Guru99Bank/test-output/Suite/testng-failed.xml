@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.guru99.test.InvalidUserLogin">
+        <methods>
+          <include name="configeBC"/>
+          <include name="configAC"/>
+          <include name="configAM"/>
+          <include name="invalidLoginTest"/>
+          <include name="configBM"/>
+        </methods>
+      </class> <!-- com.guru99.test.InvalidUserLogin -->
+      <class name="com.guru99.test.InvaliduserandInvalidPassword">
+        <methods>
+          <include name="configeBC"/>
+          <include name="configAC"/>
+          <include name="configAM"/>
+          <include name="configBM"/>
+          <include name="invalidusernameInvalidPassword"/>
+        </methods>
+      </class> <!-- com.guru99.test.InvaliduserandInvalidPassword -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

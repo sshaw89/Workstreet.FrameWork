@@ -1,0 +1,43 @@
+2019-03-06 14:06:22,403 +0530 [main] INFO  (BaseClass.java:27) - opening chrome browser
+2019-03-06 14:06:49,096 +0530 [main] INFO  (BaseClass.java:43) - entered the url
+2019-03-06 14:06:49,109 +0530 [main] INFO  (LoginTest.java:19) - logging in to the application
+2019-03-06 14:06:49,277 +0530 [main] INFO  (LoginTest.java:23) - entering username and password
+2019-03-06 14:06:59,681 +0530 [main] INFO  (LoginTest.java:25) - username and password entered
+2019-03-06 14:06:59,682 +0530 [main] INFO  (LoginTest.java:26) - get the title of homepage
+2019-03-06 14:06:59,695 +0530 [main] INFO  (LoginTest.java:28) - verifying with assert
+2019-03-06 14:06:59,719 +0530 [main] INFO  (LoginTest.java:30) - verified successfully
+2019-03-06 14:06:59,725 +0530 [main] INFO  (BaseClass.java:51) - closed the browser
+2019-03-06 14:07:00,110 +0530 [main] INFO  (BaseClass.java:27) - opening chrome browser
+2019-03-06 14:07:17,519 +0530 [main] INFO  (BaseClass.java:43) - entered the url
+2019-03-06 14:07:17,524 +0530 [main] INFO  (LoginTestWithValiduserInvalidPassword.java:23) - Trying to login with invalid username
+2019-03-06 14:07:20,789 +0530 [main] INFO  (LoginTestWithValiduserInvalidPassword.java:25) - switching to alert popup window
+2019-03-06 14:07:20,812 +0530 [main] INFO  (LoginTestWithValiduserInvalidPassword.java:27) - getting the text of popup window
+2019-03-06 14:07:20,816 +0530 [main] INFO  (LoginTestWithValiduserInvalidPassword.java:30) - verifying the expected text with actual test using assert
+2019-03-06 14:07:20,816 +0530 [main] INFO  (LoginTestWithValiduserInvalidPassword.java:32) - alert text is verified
+2019-03-06 14:07:21,081 +0530 [main] INFO  (BaseClass.java:51) - closed the browser
+2019-03-06 14:34:30,354 +0530 [main] INFO  (BaseClass.java:27) - opening chrome browser
+2019-03-06 14:34:56,321 +0530 [main] INFO  (BaseClass.java:43) - entered the url
+2019-03-06 14:34:56,336 +0530 [main] INFO  (LoginTest.java:19) - logging in to the application
+2019-03-06 14:34:56,495 +0530 [main] INFO  (LoginTest.java:23) - entering username and password
+2019-03-06 14:35:06,344 +0530 [main] INFO  (LoginTest.java:25) - username and password entered
+2019-03-06 14:35:06,345 +0530 [main] INFO  (LoginTest.java:26) - get the title of homepage
+2019-03-06 14:35:06,359 +0530 [main] INFO  (LoginTest.java:28) - verifying with assert
+2019-03-06 14:35:06,380 +0530 [main] INFO  (LoginTest.java:30) - verified successfully
+2019-03-06 14:35:06,387 +0530 [main] INFO  (BaseClass.java:51) - closed the browser
+2019-03-06 22:54:51,668 +0530 [main] INFO  (BaseClass.java:27) - opening chrome browser
+2019-03-06 22:55:50,591 +0530 [main] INFO  (BaseClass.java:43) - entered the url
+2019-03-06 22:55:50,604 +0530 [main] INFO  (LoginTest.java:19) - logging in to the application
+2019-03-06 22:55:51,771 +0530 [main] INFO  (LoginTest.java:23) - entering username and password
+2019-03-06 22:56:09,037 +0530 [main] INFO  (LoginTest.java:25) - username and password entered
+2019-03-06 22:56:09,038 +0530 [main] INFO  (LoginTest.java:26) - get the title of homepage
+2019-03-06 22:56:09,052 +0530 [main] INFO  (LoginTest.java:28) - verifying with assert
+2019-03-06 22:56:09,073 +0530 [main] INFO  (LoginTest.java:30) - verified successfully
+2019-03-06 22:56:09,079 +0530 [main] INFO  (BaseClass.java:51) - closed the browser
+2019-03-06 22:56:11,336 +0530 [main] INFO  (BaseClass.java:27) - opening chrome browser
+2019-03-06 22:56:33,439 +0530 [main] INFO  (BaseClass.java:43) - entered the url
+2019-03-06 22:56:33,454 +0530 [main] INFO  (LoginTestWithValiduserInvalidPassword.java:23) - Trying to login with invalid username
+2019-03-06 22:56:37,607 +0530 [main] INFO  (LoginTestWithValiduserInvalidPassword.java:25) - switching to alert popup window
+2019-03-06 22:56:37,635 +0530 [main] INFO  (LoginTestWithValiduserInvalidPassword.java:27) - getting the text of popup window
+2019-03-06 22:56:37,657 +0530 [main] INFO  (LoginTestWithValiduserInvalidPassword.java:30) - verifying the expected text with actual test using assert
+2019-03-06 22:56:37,658 +0530 [main] INFO  (LoginTestWithValiduserInvalidPassword.java:32) - alert text is verified
+2019-03-06 22:56:38,289 +0530 [main] INFO  (BaseClass.java:51) - closed the browser
