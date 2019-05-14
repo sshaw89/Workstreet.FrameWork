@@ -10,9 +10,11 @@ package com.guru99.genericlibrary;
 	import org.openqa.selenium.chrome.ChromeDriver;
 	import org.openqa.selenium.firefox.FirefoxDriver;
 	import org.testng.annotations.AfterClass;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeClass;
+	import org.testng.annotations.AfterMethod;
+	import org.testng.annotations.BeforeClass;
 	import org.testng.annotations.BeforeMethod;
+	
+	
 	public class BaseClass {
 		public static WebDriver driver;
 		FileUtis flib=new FileUtis();
